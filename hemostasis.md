@@ -40,10 +40,10 @@ This leads to the platelet becoming activated and concomitantly losing its round
 
 #### Formation of Platelets
 
-
 The formation of platelets is divided into 2 parts.
 
-In the first part, we have what is known as __Megakaryopoiesis__
+In the first part, we have what is known as *Megakaryopoiesis*
+
 
 
 
@@ -52,5 +52,6 @@ In the first part, we have what is known as __Megakaryopoiesis__
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTQyODIxMjddfQ==
+eyJoaXN0b3J5IjpbLTEyNzMzNTQ0NzksLTE1NTQyODIxMjddfQ
+==
 -->
