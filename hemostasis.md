@@ -56,6 +56,9 @@ A[Hemocytoblast stem cell] --> B[Megakaryoblast] --> C[Promegakaryocyte] --> D[M
 In this phase, the final mature platelet is formed.
 
 
+TPO 1/ $\alpha$ Bone Marrow Megakaryocytes
+
+
 
 
 
@@ -72,6 +75,6 @@ In this phase, the final mature platelet is formed.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0OTk2NzM5LC0xMjczMzU0NDc5LC0xNT
-U0MjgyMTI3XX0=
+eyJoaXN0b3J5IjpbMzY2Nzk3NjY4LDIxNDk5NjczOSwtMTI3Mz
+M1NDQ3OSwtMTU1NDI4MjEyN119
 -->
