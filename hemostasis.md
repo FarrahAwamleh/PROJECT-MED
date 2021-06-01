@@ -43,6 +43,26 @@ This leads to the platelet becoming activated and concomitantly losing its round
 The formation of platelets is divided into 2 parts.
 
 In the first part, we have what is known as *Megakaryopoiesis*
+This developmental phase involves different steps. 
+
+Among them, there is the repeated mitosis of megakaryocytes in the early maturation stage. This occurs without cytokinesis which means there is nucleus division but not of the cell. Thus, gradually the cell becomes enlarged as it develops in the following manner.
+
+```mermaid
+graph LR
+A[Hemocytoblast stem cell] --> B[Megakaryoblast] --> C[Promegakaryocyte] --> D[Megakaryocyte] --> E[Platelets]
+```
+
+2. *Thrombopoiesis*:
+In this phase, the final mature platelet is formed.
+
+
+
+
+
+
+
+
+
 
 
 
@@ -52,6 +72,6 @@ In the first part, we have what is known as *Megakaryopoiesis*
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzMzNTQ0NzksLTE1NTQyODIxMjddfQ
-==
+eyJoaXN0b3J5IjpbMjE0OTk2NzM5LC0xMjczMzU0NDc5LC0xNT
+U0MjgyMTI3XX0=
 -->
